@@ -1,5 +1,4 @@
 ## Python
--- 
 
 * Shell, Editor, IDE
 * Números, Variaveis, Operações
