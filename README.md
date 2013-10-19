@@ -1,5 +1,4 @@
-### Python
-
+## Python
 -- 
 
 * Shell, Editor, IDE
@@ -7,3 +6,5 @@
 * Estruturas de Repetição
 * Strings, Funções, Atribuições
 * Extra: Modulos, classes, metodos, interface com o hardware
+
+### Shell
