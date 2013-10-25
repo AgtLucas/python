@@ -1,5 +1,6 @@
 ## Python
 
+#### Links
 http://chimera.labs.oreilly.com/books/1230000000393
 
 Python é uma linguagem orientada a objetos, dinâmica e não tipada, ou seja, você não precisa declarar tipos quando se está declarando uma variável.
